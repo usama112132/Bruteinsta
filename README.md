@@ -8,7 +8,7 @@ Download&install
 
 1)apt-get install tor
 
-2)git clone:https://github.com/iamwithyou11/Bruteinsta 
+2)git clone:https://github.com/osama____9/Bruteinsta 
 
 3)tor (run this tor service in another terminal)
 
